@@ -1,9 +1,9 @@
-./.....................//////////////////////////////////////////.# Quantum-Computing
+# Quantum-Computing
 
 ## Companies
 - Xanadu
 - IBM
-- Google./-*+
+- Google
 - IonQ                
 
 ## Qubits 
